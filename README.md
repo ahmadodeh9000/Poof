@@ -13,6 +13,7 @@ and bring them back when you're done.
 
 ![macOS](https://img.shields.io/badge/macOS-26.5%2B-black?logo=apple&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-SwiftUI-F05138?logo=swift&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-blue)
 
 </div>
 
@@ -66,6 +67,10 @@ Then press **Run** (⌘R) in Xcode.
 ## 🗑 Uninstall
 
 Click the eye icon → **Quit**, then drag Poof from Applications to the Trash.
+
+## 📄 License
+
+Poof is free and open source under the [MIT License](LICENSE).
 
 ---
 
