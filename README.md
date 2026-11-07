@@ -15,7 +15,7 @@ Good to know:
 
 ## Download & install
 
-1. Download **Poof.zip** from the [Releases page](https://github.com/USERNAME/Poof/releases).
+1. Download **Poof.zip** from the [Releases page](https://github.com/ahmadodeh9000/Poof/releases).
 2. Double-click the zip to unzip it, then drag **Poof.app** into your **Applications** folder.
 3. Open Poof. The first time, macOS will block it with a warning. This is expected: Poof isn't notarized by Apple, which is common for small free apps. To allow it:
    - Click **Done** on the warning.
