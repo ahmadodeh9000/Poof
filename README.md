@@ -11,7 +11,7 @@ and bring them back when you're done.
 
 <a href="https://github.com/ahmadodeh9000/Poof/releases/latest"><img src="https://img.shields.io/badge/Download-Poof-2EA44F?style=for-the-badge&logo=apple&logoColor=white" alt="Download Poof"></a>
 
-![macOS](https://img.shields.io/badge/macOS-26.5%2B-black?logo=apple&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-13.0%2B-black?logo=apple&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-SwiftUI-F05138?logo=swift&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
@@ -28,6 +28,7 @@ and bring them back when you're done.
 
 - **One click.** Lives in your menu bar. No windows, no Dock icon, no settings.
 - **Puts things back exactly.** If you already had the Dock on auto-hide, Poof leaves it that way.
+- **Launch at Login.** Turn it on from the menu and Poof starts with your Mac.
 - **Safe.** Quitting Poof, or even a crash, restores your desktop the next time it opens.
 
 ## 🚀 How to use it
@@ -53,7 +54,7 @@ and bring them back when you're done.
    You only need to do this once.
 4. Look for the eye icon in your menu bar. That's where Poof lives.
 
-**Requirements:** macOS 26.5 or later.
+**Requirements:** macOS 13.0 (Ventura) or later.
 
 ## 🛠 Build from source
 
