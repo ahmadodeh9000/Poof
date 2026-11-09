@@ -26,7 +26,7 @@ and bring them back when you're done.
 | Desktop full of files and screenshots | Just your wallpaper |
 | Dock always showing | Dock tucked away |
 
-- **One click.** Lives in your menu bar. No windows, no Dock icon, no settings.
+- **One click.** Lives in your menu bar. No windows, no Dock icon, nothing to set up.
 - **Puts things back exactly.** If you already had the Dock on auto-hide, Poof leaves it that way.
 - **Launch at Login.** Turn it on from the menu and Poof starts with your Mac.
 - **Safe.** Quitting Poof, or even a crash, restores your desktop the next time it opens.
